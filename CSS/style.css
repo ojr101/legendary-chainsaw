@@ -1,0 +1,84 @@
+.one{
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+
+body{
+    font: 15px/ 1.5 Arial, Helvetica, Sans-Serif;
+    padding: 0;
+    margin: 0;
+    background: #CE5937;
+    background: -moz-linear-gradient(left, #CE5937 0%, #1C6EA4 50%, #C59237 100%);
+    background: -webkit-linear-gradient(left, #CE5937 0%, #1C6EA4 50%, #C59237 100%);
+    background: linear-gradient(to right, #CE5937 0%, #1C6EA4 50%, #C59237 100%);
+    color: rgb(255, 255, 255);
+    font-weight: 200;
+
+}
+
+
+.container{
+        width: 80%;
+        margin: auto;
+        overflow: hidden;
+
+}
+
+header{
+        background: #35424a;
+        color: #ffffff;
+        padding-top: 30px;
+        min-height: 70px;
+        border-bottom: #e8491d 3px solid;
+}
+
+header a{
+        color: #ffffff;
+        text-decoration: none;
+        text-transform: uppercase;
+        font-size: 16px;
+}
+header ul{
+        margin: 0;
+        padding: 0;
+}
+
+header li{
+        display: inline;
+        padding: 0 20px 0 20px;
+}
+footer{
+        text-align: center;
+        color: rgb(63, 14, 51);
+        font-size: medium;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.three{
+        color: #35424a;
+        font-style: oblique;
+        text-decoration: underline #00ccff;
+}
+.explosion{
+        display: block;
+        margin-left: auto; 
+        margin-right:auto;
+}
+.gamemode{
+        display: block;
+        margin-left: auto; 
+        margin-right:auto;
+}
+.gameplay{
+        display: block;
+        margin-left: auto; 
+        margin-right:auto;
+}
+.listone{
+        text-align: right;
+}
+.listtwo{
+        text-align: center;
+}
+.listthree{
+        text-align: right;
+}     
